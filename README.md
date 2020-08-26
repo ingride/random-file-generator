@@ -1,7 +1,7 @@
 # random-file-generator
 
-run with:
+to generate 100 files of 10kb each: 
 ```
  go run dd.go -bs=10 -count=1 -n=100
 ```
-to generate 100 files of 10kb each
+

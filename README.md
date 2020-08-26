@@ -1,4 +1,4 @@
-# random-file-generator
+# random-file-generator ✨
 
 Create a number of files of a certain size
 

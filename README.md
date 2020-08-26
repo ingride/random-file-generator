@@ -1,6 +1,6 @@
 # random-file-generator ✨
 
-Create a number of files of a certain size
+Create a number of files of a certain size.
 
 example: 
 * to generate 100 files of 10kb each: 

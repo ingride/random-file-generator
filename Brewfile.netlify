@@ -1,0 +1,3 @@
+# install packages
+tap 'caskroom/homebrew-cask' || true
+brew 'tree'
